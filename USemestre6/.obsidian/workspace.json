@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "df28395ca3ac87cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "07169429c00671ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95ae1f7246ab2495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nota.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "655982aced175914",
+    "type": "split",
+    "children": [
+      {
+        "id": "940de66d4ad96efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9930d9cbd103dda1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca8cb76965e312a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cc07fa2226ac152",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "769ede78533524fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e2174cbc43ef550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678c37c2bf93d535",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1927915283fbce4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62d0df9d1ccfdfd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27ce801c18e9a2f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nota.md"
+              }
+            }
+          },
+          {
+            "id": "ef17f45450a98d55",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "95ae1f7246ab2495",
+  "lastOpenFiles": [
+    "Nota.md",
+    "Chimbaphone/Untitled.canvas",
+    "Poder de la Imagen/Poder de la Imagen - Trabajo Final - Segundo Corte.md",
+    "Lluvia de Ideas Nombre.md",
+    "Chimbaphone",
+    "Poder de la Imagen/Poder de la Imagen Hub.md",
+    "Knowledge/Computer Science/Markdown/Markdown (MD).md",
+    "Knowledge/Computer Science",
+    "Knowledge/Markdown/Untitled",
+    "Knowledge/Computer Science/Markdown",
+    "Knowledge/Computer Science/Markdown/Matt Cone - The Markdown Guide (2018).pdf",
+    "Knowledge/Knowledge Hub.md",
+    "Knowledge/Knowledge Readme.md",
+    "Redes/Prueba  Canvas.canvas",
+    "Knowledge",
+    "Untitled/Untitled.canvas",
+    "memama.canvas.md",
+    "Redes/Taller Redes/Transformada de Fourier - Magnitudes.md",
+    "AWS/AWS Hub.md",
+    "Geopolitica/Cloud Foundations - Module 5 Quiz.md",
+    "Redes/Workshop Corte 1.md",
+    "Redes/Redes 1 Hub.md",
+    "Bases de Datos/Bases de Datos Hub.md",
+    "Bases de Datos/Modelo Entidad-Relación para el Sistema de Alumnos de una Facultad.md",
+    "Redes/Prefijos Sistema Internacional (SI).md",
+    "AWS/AWS Foundations Modulo 10 - Quiz.md",
+    "AWS/AWS Foundations Module 2 Knowledge Check.md",
+    "AWS/Lab 1 - Modulo 4 - Cloud Foundations.md",
+    "Geopolitica/Geopolitica Hub.md",
+    "AWS/Knowledge Check 2.md",
+    "Redes/Apuntes - Hombres y Engranajes.md",
+    "AWS/AWS 2 (04-08-2023).md",
+    "AWS/Module 8 Knowledge Check.md",
+    "AWS/AWS 1 (02-08-2023).md",
+    "Ciberseguridad/Ciberseguridad Hub.md",
+    "Redes/Trabajos Redes I Leo y Will/Anteproyecto.docx.pdf",
+    "Bases de Datos/DocumentosClase/Taller_Final_Corte_II.pdf",
+    "Bases de Datos/DocumentosClase/MER_II.pptx",
+    "Bases de Datos/DocumentosClase/Constraints.sql",
+    "Pasted image 20230919213320.png",
+    "Images/Pasted image 20230919213328.png",
+    "Images/Pasted image 20230919213320.png",
+    "Images/Pasted image 20230919213314.png",
+    "Images/Pasted image 20230919213308.png",
+    "Images/Pasted image 20230919213259.png",
+    "Images/Pasted image 20230919213251.png",
+    "Images/Pasted image 20230919213244.png",
+    "Images/Pasted image 20230919213238.png",
+    "Images/Pasted image 20230919213213.png"
+  ]
+}

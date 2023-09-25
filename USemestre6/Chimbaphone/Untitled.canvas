@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e156de659c3ba927","x":-740,"y":-111,"width":150,"height":60,"type":"text","text":"Parceros"},
+		{"id":"37a5ee49af129a27","x":-560,"y":-111,"width":140,"height":60,"type":"text","text":"Serios"},
+		{"id":"8146f7622e1eaad4","x":-376,"y":-110,"width":176,"height":58,"type":"text","text":"Relajados"},
+		{"id":"865cb9507a5ec6da","x":-916,"y":-110,"width":145,"height":60,"type":"text","text":"Peques"},
+		{"id":"35692a82928091a5","x":-836,"y":-200,"width":171,"height":60,"type":"text","text":"Imagen 1"},
+		{"id":"488ef33243079224","type":"text","text":"Imagen 2","x":-465,"y":-200,"width":171,"height":60},
+		{"id":"172b652c5b5ab985","x":-670,"y":-300,"width":250,"height":60,"type":"text","text":"Lineas de Mercado"},
+		{"id":"16afae213567b778","x":-240,"y":-480,"width":250,"height":60,"type":"text","text":"Chimbaphone"}
+	],
+	"edges":[]
+}

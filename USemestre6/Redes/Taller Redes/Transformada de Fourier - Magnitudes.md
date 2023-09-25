@@ -1,0 +1,7 @@
+La Transformada de Fourier es una herramienta matemática que se utiliza para descomponer una señal en sus componentes de frecuencia. Cuando se calcula la Transformada de Fourier de una señal, el resultado es una función compleja que describe las amplitudes y fases de las diferentes frecuencias presentes en la señal original.
+
+En el contexto de análisis de señales y sistemas, las magnitudes de las Transformadas de Fourier (TF) generalmente se toman en valor absoluto, lo que significa que solo se consideran las amplitudes y no las fases. El valor absoluto de una función compleja no tiene unidades, ya que solo representa la longitud del vector complejo en el plano complejo, y esa longitud es adimensional.
+
+Dado que las magnitudes de las Transformadas de Fourier son adimensionales, no es necesario asignar unidades específicas al eje y de los gráficos que representan estas magnitudes. En cambio, el énfasis se coloca en cómo varían las amplitudes en función de la frecuencia. El eje x, que representa la frecuencia, generalmente tiene unidades de Hz (hertzios) o rad/s (radianes por segundo), según cómo se haya definido la frecuencia en el contexto de la aplicación.
+
+==En resumen==, las magnitudes de las Transformadas de Fourier son adimensionales porque representan la amplitud relativa de las diferentes frecuencias en una señal. Por lo tanto, en los gráficos que muestran las magnitudes de las TF, el eje y no tiene unidades específicas, mientras que el eje x representa la frecuencia en unidades de Hz o rad/s, dependiendo del contexto.
